@@ -1,0 +1,5 @@
+var bullet;
+bullet = instance_create(x,y,objBullet1);
+bullet.direction = direction;
+bullet.image_angle = image_angle;
+bullet.speed = 10;
